@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时生成（含个人设置 / 退出标志）
+config.json
+quit.flag
+
+# 日志与临时文件
+*.log
+*.tmp
